@@ -1,29 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my BetterDiscord theme css page thingy
 
-You can use the [editor on GitHub](https://github.com/StriderG/StriderG.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here I'm gonna try and update my themes or something like that. 
 
 ```markdown
-Syntax highlighted code block
+Couple of my themes
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[gray and orangered theme](https://github.com/StriderG/BetterDiscord-themes/blob/main/G%26OR.css) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
