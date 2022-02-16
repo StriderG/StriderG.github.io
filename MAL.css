@@ -1,0 +1,793 @@
+body.page-common.profile {
+  background-color: black;
+  color: red;
+}
+
+#content {
+  background-color: black;
+}
+
+#headerSmall {
+  background-color: black;
+}
+
+h1.h1 {
+  background-color: black;
+  text-align: center;
+  color: red;
+}
+
+span.di-ib.po-r {
+  background-color: black;
+  color: red;
+  text-align: left;
+}
+
+div div h2 {
+  color: red;
+  text-align: center;
+}
+
+a.floatRightHeader.ff-Verdana {
+  color: red;
+}
+
+div div a {
+  color: red;
+}
+
+a.btn-mal-service {
+  display: none;
+}
+
+#menu {
+  background-color: black;
+}
+
+a.btn-profile-submit.fl-l {
+  background-color: #313236;
+}
+
+a.btn-profile-submit.fl-r {
+  background-color: #313236;
+}
+
+a.icon-user-function.icon-comment.js-user-function {
+  background-color: black;
+  color: red;
+}
+
+div.user-profile {
+  background-color: black;
+}
+
+li.clearfix {
+  background-color: black;
+}
+
+a.di-b {
+  background-color: black;
+}
+
+li.icon-statistics.link {
+  background-color: black;
+}
+
+li.icon-history.link {
+  background-color: black;
+}
+
+li.link {
+  background-color: black;
+}
+
+textarea.textarea {
+  background-color: black;
+}
+
+input.js-profile-user-comment.inputButton.btn-form-submit.fs12.pt4.pb4.pl8.pr8 {
+  background-color: black;
+}
+
+#footer-block {
+  display: none;
+}
+
+#contentWrapper {
+  background-color: black;
+}
+
+span.text {
+  color: red;
+}
+
+span.icon-user-function.icon-message.js-user-function.disabled {
+  background-color: black;
+}
+
+span.icon-user-function.icon-request.js-user-function.disabled {
+  background-color: black;
+}
+
+input.inputtext.fl-l {
+  background-color: black;
+  color: red;
+}
+
+select.inputtext {
+  background-color: black;
+  color: red;
+  text-align: left;
+}
+
+input.fl-l {
+  background-color: black;
+  color: red;
+}
+
+div.header-menu-unit.header-profile.js-header-menu-unit.link-bg.pl8.pr8 {
+  background-color: black;
+}
+.page-common #content {
+  border-color: black;
+}
+.page-common .h1 {
+  border-left-color: black;
+  border-top-color: black;
+}
+.page-common .content-container .container-left {
+  border-right-color: black;
+}
+.user-profile .user-function .icon-user-function.icon-comment {
+  border-color: black;
+}
+.user-profile .user-function .icon-user-function.icon-message {
+  border-color: black;
+}
+.user-profile .user-function .icon-user-function.icon-request {
+  border-color: black;
+}
+.page-common .h1 {
+  border-bottom-color: black;
+}
+.page-common .inputtext {
+  border-color: black;
+}
+.user-profile .user-status.border-top {
+  border-top-color: black;
+}
+.user-profile h4 {
+  border-color: black;
+}
+.page-common .content-container .container-right h2 {
+  border-color: black;
+}
+.page-common .content-container .container-right h5 {
+  border-bottom-color: black;
+}
+
+div.graph.fl-l {
+  background-color: black;
+  
+}
+
+h5.mb8.mr8 {
+  text-align: center;
+}
+
+h5.mb8 {
+  text-align: center;
+}
+.profile .statistics-updates .data .graph {
+  border-color: black;
+}
+.page-common .header-profile .header-profile-dropdown ul li a {
+  background-color: black;
+  border-color: black;
+}
+.page-common .header-profile .header-profile-dropdown {
+  border-color: black;
+}
+.page-common #nav li a:hover, .page-common #nav li.hover a {
+  background-color: black;
+}
+div.user-comments.mt24.pt24 {
+  display: none;
+}
+div div h4 {
+  display: none;
+}
+div.user-profile-sns {
+  display: none;
+}
+a.qc-cmp2-persistent-link {
+  display: none;
+}
+div div h5 {
+  text-align: center;
+}
+
+div.h1.edit-info {
+  background-color: black;
+  color: red;
+  
+}
+
+ul li a {
+  background-color: #313236;
+  font-weight: 100;
+  font-style: normal;
+}
+
+div.stats-block.po-r.clearfix {
+  background-color: black;
+  color: red;
+}
+
+div.score-label.score-7 {
+  color: red;
+}
+
+div.fl-l.score {
+  color: #908F8F;
+}
+
+span.numbers.ranked {
+  color: red;
+}
+
+span.numbers.popularity {
+  color: red;
+}
+
+span.numbers.members {
+  color: red;
+}
+
+div.user-status-block.js-user-status-block.fn-grey6.clearfix.al.mt8.po-r {
+  color: red;
+  background-color: black;
+}
+
+div.di-ib.form-user-episode.ml8.completed {
+  color: red;
+  background-color: black;
+}
+
+select.form-user-score.js-form-user-score.ml8 {
+  color: red;
+  background-color: black;
+}
+
+select.form-user-status.js-form-user-status.myinfo_updateInfo {
+  color: red;
+  background-color: black;
+}
+
+td.borderClass {
+  color: red;
+  background-color: black;
+}
+
+span.theme-song {
+  background-color: black;
+  color: #908F8F;
+}
+
+div div div {
+  color: red;
+}
+
+td.forum_boardrow1 {
+  color: red;
+  background-color: black;
+}
+
+td.forum_boardrow2 {
+  background-color: black;
+}
+
+a.btn-detail-recommendations-view-all.fl-r {
+  background-color: black;
+}
+
+body.page-common {
+  background-color: black;
+}
+
+input.inputtext.js-user-episode-seen {
+  background-color: black;
+  color: red;
+}
+
+input.inputtext {
+  background-color: black;
+  color: red;
+}
+
+input.inputButton.btn-middle.flat.js-anime-update-button {
+  background-color: black;
+  color: red;
+}
+
+div.js-sns-icon-container.icon-block.mt8 {
+  display: none;
+}
+.page-common #horiznav_nav ul li {
+  background-color: black;
+}
+.page-common #horiznav_nav {
+  border-color: black;
+}
+.anime-detail-header-stats .stats-block .score:before {
+  background-color: black;
+  color: red;
+}.anime-detail-header-stats .stats-block .score:after {
+  color: red;
+}
+.anime-detail-header-stats .stats-block {
+  border: black;
+}
+.anime-detail-header-stats .stats-block:before {
+  background-color: red;
+  box-shadow: red;
+  -webkit-box-shadow: red
+}
+.page-common .borderClass {
+  border-color: black;
+}
+.anime-detail-header-stats .user-status-block {
+  border-color: black;
+}
+.user-status-block .form-user-status[data-class=completed] {
+  border-color: red;
+}
+select.form-user-score.js-form-user-score.ml8 {
+  border-color: red;
+}
+div.di-ib.form-user-episode.ml8.completed {
+  border-color: red;
+}
+
+tr td p {
+  color: #A5A5A5;
+  
+}
+
+tbody tr td {
+  color: #908F8F;
+}
+
+span.dark_text {
+  color: #908F8F;
+}
+
+td div small {
+  color: #908F8F;
+}
+
+div.spaceit.textReadability.word-break.pt8.mt8 {
+  color: #908F8F;
+}
+
+div.breadcrumb {
+  color: #908F8F;
+}
+
+div a span {
+  color: #908F8F;
+}
+
+div span a {
+  color: #908F8F;
+}
+
+div.ranking-digest {
+  background-color: black;
+}
+
+div.ranking-header.side_header_margin {
+  background-color: black;
+}
+
+span.external-link {
+  background-color: black;
+}
+.page-common .header-notification-dropdown-inner h3 {
+  border-color: red;
+  background-color: black;
+}
+.page-common a:hover {
+  color: red;
+}
+div span a {
+  color: red;
+}
+.page-common .header-notification-dropdown-inner h3 .mark-all {
+  color:  white;
+}
+.page-common .header-notification-item-list {
+  background-color: black;
+}
+.page-common .header-notification-item.new {
+  background-color: black;
+}
+.page-common .header-notification-item-content .actions .result {
+  background-color: black;
+  color: white;
+  border-color: black;
+}
+.page-common .header-notification-view-all a{
+  background-color: black;
+  border-top-color: black;
+}
+.page-common .header-notification-dropdown .arrow_box {
+  border-color: black;
+}
+.page-common .header-notification-item-header .category {
+  color: #908F8F;
+}
+.page-common .header-list .header-list-dropdown {
+  border-color: black;
+}
+.page-common .header-list .header-list-dropdown ul li a {
+  border-bottom-color: black;
+}
+td.rank.ac {
+  background-color: black;
+}
+td.title.al.va-t.word-break {
+  background-color: black;
+}
+td.score.ac.fs14 {
+  background-color: black;
+}
+td.your-score.ac.fs14 {
+  background-color: black;
+}
+td.status.ac {
+  background-color: black;
+}
+a.Lightbox_AddEdit.btn-addEdit-large.btn-anime-watch-status.js-anime-watch-status.completed {
+  background-color: #313235;
+}
+a.Lightbox_AddEdit.btn-addEdit-large.btn-anime-watch-status.js-anime-watch-status.notinmylist {
+  background-color: #313235;
+}
+td.title {
+  background-color: black;
+  color: red;
+}
+td.score {
+  background-color: black;
+  color: red;
+}
+td.your-score {
+  background-color: black;
+  color: red;
+}
+td.status {
+  background-color: black;
+  color: red;
+}
+td.rank {
+  color: red;
+  background-color: black;
+}
+a.button-preview {
+  background-color: black;
+  color: red;
+}
+.top-ranking-table tr td {
+  border-left: black;
+  border-right: black;
+}
+a.Lightbox_AddEdit.btn-addEdit-large.btn-anime-watch-status.js-anime-watch-status.plantowatch {
+  background-color: #313235;
+}
+.top-ranking-table .status .btn-addEdit-large.btn-anime-watch-status {
+  border: black;
+}
+.top-ranking-table .title .button-preview {
+  border-color: black;
+  background-color: #313235;
+}
+
+a.link-blue-box.next {
+  background-color: #313236;
+  
+}
+
+a.Lightbox_AddEdit.btn-addEdit-large.btn-anime-watch-status.js-anime-watch-status.watching {
+  background-color: #313236;
+}
+
+a.Lightbox_AddEdit.btn-addEdit-large.btn-anime-watch-status.js-anime-watch-status.on-hold {
+  background-color: #313236;
+}
+
+a.link-blue-box.prev.mr4 {
+  background-color: #313236;
+}
+
+div.horiznav_nav {
+  background-color: black;
+}
+
+div.navi-seasonal.js-navi-seasonal {
+  background-color: black;
+}
+.navi-seasonal .horiznav_nav {
+  border-bottom-color: black;
+}
+
+input.inputButton {
+  background-color: #313236;
+  
+}
+.page-common .inputButton {
+  border-color: black;
+  color: red
+}
+
+div.prodsrc {
+   background-color: black;
+  
+}
+
+div.genres-inner.js-genre-inner {
+  background-color: black;
+}
+
+div.genres.js-genre {
+  background-color: black;
+}
+
+span.genre {
+  background-color: #313236;
+  border-color: black;
+}
+
+div.seasonal-anime.js-seasonal-anime {
+  color: red;
+}
+.seasonal-anime-list .seasonal-anime .title {
+  color: red;
+}
+
+div.scormem {
+  background-color: black;
+  
+}
+
+div.info {
+  background-color: black;
+}
+
+span.score.score-label.score-na {
+  background-color: black;
+}
+.seasonal-anime-list .seasonal-anime .information .scormem .score:after {
+  background-image: none;
+}
+.seasonal-anime-list .seasonal-anime .information .scormem .member:after {
+  background-image: none;
+}
+.navi-seasonal .horiznav-nav-seasonal .btn-seasonal .btn-type:hover, .navi-seasonal .horiznav-nav-seasonal .btn-seasonal .btn-type.on {
+  background-color: #424242;
+  color: red;
+}
+.navi-seasonal .horiznav-nav-seasonal .btn-seasonal .btn-type {
+  background-color: #313235;
+  color: red;
+}
+.seasonal-anime-list .anime-header {
+  background-color: #313236;
+  border: none;
+}
+.navi-seasonal .horiznav_nav ul li a.navtab {
+  border: none;
+  margin-left: 0px;
+}
+.seasonal-anime-list .seasonal-anime {
+  border: none;
+}
+.seasonal-anime-list .seasonal-anime .genres {
+  border-bottom: none;
+}
+.seasonal-anime-list .seasonal-anime .information {
+  border-top: none;
+}
+.navi-seasonal.fixed:after {
+  background-image: none;
+}
+.seasonal-anime-list .seasonal-anime .prodsrc a.button_add, .seasonal-anime-list .seasonal-anime .prodsrc a.button_edit {
+  background-color: #313236;
+  border-bottom: none;
+  margin-bottom: 1px;
+}
+a.di-ib.fl-l.lh10.circle.anime.watching {
+  background-color: black;
+}
+a.di-ib.fl-l.lh10.circle.anime.completed {
+  background-color: black;
+}
+a.di-ib.fl-l.lh10.circle.anime.on_hold {
+  background-color: black;
+}
+a.di-ib.fl-l.lh10.circle.anime.dropped {
+  background-color: black;
+}
+a.di-ib.fl-l.lh10.circle.anime.plan_to_watch {
+  background-color: black;
+}
+a.di-ib.fl-l.lh10.circle.manga.reading {
+  background-color: black;
+}
+a.di-ib.fl-l.lh10.circle.manga.completed {
+  background-color: black;
+}
+a.di-ib.fl-l.lh10.circle.manga.on_hold {
+  background-color: black;
+}
+a.di-ib.fl-l.lh10.circle.manga.dropped {
+  background-color: black;
+}
+a.di-ib.fl-l.lh10.circle.manga.plan_to_read {
+  background-color: black;
+}
+li div a {
+  background-color: black;
+}
+div.di-ib.form-user-episode.ml8 {
+  background-color: black;
+  border-color: red;
+}
+div.easter {
+  background-image: none;
+}
+body:not(.ownlist) {
+  background-image: none;
+}
+.page-common .incrementalSearchResultList {
+  background-color: black;
+}
+.page-common .incrementalSearchResultList .list.separator {
+  background-color: black;
+  border-color: black;
+}
+.page-common .incrementalSearchResultList {
+  border: black;
+}
+.page-common .incrementalSearchResultList .list.list-bottom a {
+  background-color: black;
+  border-color: black;
+}
+.page-common .incrementalSearchResultList .list .on .info {
+  border: black;
+}
+.page-common .incrementalSearchResultList .list:last-of-type {
+  background-color: black;
+}
+.page-common .hoverinfo .hoverinfo-contaniner {
+  background-image: url(https://media.discordapp.net/attachments/650511623433486359/848286268017999882/speed.gif);
+  background-color: #FF00FF;
+  border: 20px solid;
+  border-color: #000080;
+  border-top-style: dashed;
+  border-top-color: #E9967A;
+  border-left-color: greenred;
+  border-bottom-style: dashed;
+  border-bottom-color: red;
+  border-left-style: dotted;
+  border-right-color: red;
+  border-right-style: dotted;
+  text-shadow: 2px 1px;
+  text-decoration-line: line-through;
+  font-weight: 999;
+  font-variant-caps: all-petite-caps;
+}
+.page-common .hoverinfo:after {
+  background-image: none;
+}
+.page-common .dark_text, .page-common .dark_text:hover, .page-common .dark_text:visited {
+  color: red;
+}
+.list-table .list-table-data .data a {
+  color: red;
+}
+.status-menu-container .status-menu .status-button:after {
+  background-color: red;
+}
+.list-menu-float .icon-menu svg.icon {
+  fill: red;
+}
+.list-table .list-table-data .tags .edit {
+  color: red;
+}
+.page-common a:hover {
+  color: red !important;
+}
+.price-sale[data-v-fe02bf62] {
+  color: red;
+}
+.page-common .inputButton {
+  color: red;
+}
+.manga-store-information-carousel-container .swiper-button-next, .manga-store-information-carousel-container .swiper-button-prev {
+  background-color: black;
+  height: 261px;
+  top: 33px;
+  width: 56px;
+}
+.manga-store-information-carousel .content-banner, .manga-store-information-carousel .content-book {
+  border: none;
+}
+.manga-store-information-carousel .content-book-thumb {
+  height: 261px;
+}
+.manga-store-information-carousel-container .swiper-pagination-bullet-active {
+  background: red;
+}
+
+h2 span a {
+  color: red;
+}
+
+div.information.di-ib.mt4 {
+  color: red;
+}
+
+span.text.on.score-label.score-9 {
+  color: red;
+}
+
+span.text.on.score-label.score-10 {
+  color: red;
+}
+
+span.text.score-label.score-na {
+  color: red;
+}
+
+div.list-stats {
+  color: red;
+}
+.list-table .list-table-data .data.score .link {
+  font-size: 1.5em;
+}
+
+td.data.progress {
+  font-size: 1.2em;
+}
+
+td.data.number {
+  font-size: 1.4em;
+}
+#show-stats-button {
+  color: red;
+}
+
+#advanced-options-button {
+  color: red;
+}
+
+i.fa.fa-plus-circle {
+  color: red;
+}
+.page-common #nav li a, .header, .list-container {
+  background-color: black;
+  border: black;
+}
+body.ownlist {
+  background-image: none;
+}
+body {
+  background-color: black;
+}
+.list-menu-float .icon-menu {
+  background-color: black;
+}
+.list-menu-float {
+  border: 1px solid red;
+}
