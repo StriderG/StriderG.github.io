@@ -6,9 +6,9 @@ Here I'm gonna try and update my themes or something like that.
 Couple of my themes
 
 
-[gray and orangered theme](https://github.com/StriderG/BetterDiscord-themes/blob/main/G%26OR.css) and ![Image](src)
+[gray and orangered theme](https://raw.githubusercontent.com/StriderG/BetterDiscord-themes/main/G%26OR.css) and ![Image](src)
 ```
-
+[](url)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
