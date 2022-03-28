@@ -119,8 +119,8 @@ div[class^="groupStart-"], div[class^="da-groupStart"] {
 .theme-dark .children-3xh0VB:after {
     display: none;
 }
-.lookFilled-yCfaCM.colorBrand-I6CyqQ:hover{
-    background-color: #344e41;
+.lookFilled-yCfaCM.colorBrand-I6CyqQ:hover, .lookFilled-yCfaCM.colorRed-rQXKgM, .lookFilled-yCfaCM.colorRed-rQXKgM:hover {
+    background: #1f1f1f;
 }
 .button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx:hover, .button-1EGGcP .buttonColor-3bP3fX.buttonActive-Uc1jHx:hover {
     background-color: #1f1f1f;
@@ -175,7 +175,7 @@ div[class^="groupStart-"], div[class^="da-groupStart"] {
     background-color: #1f1f1f;
 }
 .selectorButtonSelected-3cQUnj,.lookFilled-yCfaCM.colorBrand-I6CyqQ:disabled {
-    background-color: #344e41;
+    background: #1f1f1f;
 }
 .selectorButton-3fWZ0_:not(.selectorButtonPremiumRequired-IZXhgV):hover {
     background-color: rgb(153, 46, 7);
@@ -219,11 +219,8 @@ div[class^="groupStart-"], div[class^="da-groupStart"] {
 .bd-switch input:checked+.bd-switch-body {
     --switch-color: #344e41;
 }
-.bd-button {
+.bd-button, .bd-button:hover {
     background-color: #344e41;
-}
-.bd-button:hover {
-    background-color: rgb(245, 109, 60);
 }
 .bd-addon-views .bd-view-button.selected {
     background-color: #344e41;
