@@ -283,12 +283,64 @@
 .barFill-2Bh7CX {
 	background: #B026FF;
 }
-.activityPanel-9icbyU {
+.container-1zzFcN, .activityPanel-9icbyU{
+    background-color: black;
+    border-color: black;
+}
+.divider-2rZFJK{
+    --divider-color: #B026FF; 
+}
+.lookFilled-yCfaCM.colorBrand-I6CyqQ:hover{
+    background-color: #1f1f1f;
+}
+.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx, .button-1EGGcP .buttonColor-3bP3fX.buttonActive-Uc1jHx{
+    background-color: rgb(100, 20, 175);
+}
+.button-1EGGcP.buttonColor-3bP3fX.buttonActive-Uc1jHx:hover, .button-1EGGcP .buttonColor-3bP3fX.buttonActive-Uc1jHx:hover{
+    background-color: #1f1f1f;
+}
+.mention-3XBnnZ{
+    background-color: #B026FF;
+    color: black;
+}
+.base-3IDx3L{
+    color: black;
+}
+.theme-dark {
+    --scrollbar-auto-thumb: #B026FF;
+    --scrollbar-auto-track: #1f1f1f;
+}
+.container-2o3qEW{
+	background-color: black !important;
+}
+.wrapper-15CKyy{
     background-color: black;
 }
-.container-YkUktl {
-    margin-bottom: 0px;
+.scroller-3KyaqJ, .scroller-29cQFV{
+	background-color: black;
 }
-.container-YkUktl, .panel-2ZFCRb {
-    border-bottom: 0px;
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo{
+	background-color: black;
+	border: 1px solid rgb(100, 20, 175);
+}
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover{
+	background-color: rgb(10, 10, 10); 
+}
+.lookFilled-yCfaCM.colorRed-rQXKgM{
+	background-color: rgb(100, 20, 175);
+}
+.lookFilled-yCfaCM.colorRed-rQXKgM:hover{
+	background-color: rgb(110, 30, 185);
+}
+.newMessagesBar-1hF-9G{
+	background-color: rgb(100, 20, 175);
+}
+.progressBar-2yl2pi{
+	background-color: rgb(100, 20, 175);
+}
+.header-JUTO-g, .titleContainer-3fPic2{
+	background-color: black;
+}
+.top-K_jibn .brand-3g5E0C.item-3XjbnG:active, .top-K_jibn .brand-3g5E0C.selected-g-kMVV.item-3XjbnG{
+	border-bottom-color: rgb(100, 20, 175);
 }
