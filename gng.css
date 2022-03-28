@@ -198,8 +198,8 @@ div[class^="groupStart-"], div[class^="da-groupStart"] {
 .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:active, .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
     background-color: #474747;
 }
-.lookFilled-yCfaCM.colorBrand-I6CyqQ:hover {
-    background-color: rgb(245, 109, 60);
+.lookFilled-yCfaCM.colorBrand-I6CyqQ,.lookFilled-yCfaCM.colorRed-rQXKgM, .lookFilled-yCfaCM.colorRed-rQXKgM:hover {
+    background-color: #1f1f1f;
 }
 .theme-dark .tierHeaderLocked-3ItHYn {
     background-color: #292929;
