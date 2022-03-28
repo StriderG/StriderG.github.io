@@ -1,0 +1,9 @@
+/**
+	* @name G&OR
+	* @version 1.1
+	* @description Simple gray theme with orangered accents
+	* @author StriderG
+	* @source https://striderg.github.io
+*/
+
+@import url('https://striderg.github.io/gor.css');
