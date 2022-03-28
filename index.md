@@ -14,3 +14,6 @@ Couple of my themes:
   Black and purple theme
  </a>
 
+#header nav ul li a {
+display: none;
+}
