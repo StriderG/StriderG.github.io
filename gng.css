@@ -277,3 +277,10 @@ div[class^="groupStart-"], div[class^="da-groupStart"] {
 .root-22AK9z {
     background-color: black;
 }
+.mentioned-Tre-dv:before {
+    background-color: #344e41;
+}
+.mentioned-Tre-dv {
+    position: relative;
+    background-color: rgba(53, 79, 66, 0.4);
+}
