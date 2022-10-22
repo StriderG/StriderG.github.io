@@ -86,7 +86,7 @@ div[class^="groupStart-"], div[class^="da-groupStart"] {
     --scrollbar-auto-track: var(--custom-primary4);
 }
 .headerTop-3GPUSF {
-    background-color: #1f1f1f;
+    background-color: #18191c;
 }
 .container-1zzFcN, .activityPanel-9icbyU {
     background-color: #292929;
@@ -289,4 +289,10 @@ div[class^="groupStart-"], div[class^="da-groupStart"] {
 }
 .colorDefault-CDqZdO.focused-3qFvc8 {
     background-color: #344e41 !important;
+}
+.withTagAsButton-OsgQ9L:hover, .withTagless-10ooWt:hover {
+    background-color: #344e41;
+}
+.headerTopWithCustomStatus-1aNSNd, .body-2wLx-E, .bodyInnerWrapper-2bQs1k, .footer-3naVBw {
+    background-color: #18191c;
 }
