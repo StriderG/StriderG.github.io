@@ -296,3 +296,12 @@ div[class^="groupStart-"], div[class^="da-groupStart"] {
 .headerTopWithCustomStatus-1aNSNd, .body-2wLx-E, .bodyInnerWrapper-2bQs1k, .footer-3naVBw {
     background-color: #18191c !important;
 }
+.group-spacing-16 .divider-IqmEqJ.hasContent-1y12-u {
+	background-color: #344e41 !important;
+}
+.content-3spvdd {
+	background-color: #344e41 !important;
+}
+.isUnread-3Lojb- .content-3spvdd {
+    color: white !important;
+}
