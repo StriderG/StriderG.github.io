@@ -306,7 +306,9 @@ div[class^="groupStart-"], div[class^="da-groupStart"] {
     color: white !important;
 }
 
-//old discord font
+/**
+	* OLD DISCORD FONT
+*/
 
 :root {
   --font-primary: Whitney,gg sans,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
