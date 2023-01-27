@@ -13,6 +13,12 @@
 .theme-dark .form-3gdLxP:before {
     display: none;
 }
+.theme-dark .container-YkUktl {
+    background-color: #1f1f1f;
+}
+.theme-dark .scrollableContainer-15eg7h {
+    background: none;
+}
 .scrollableContainer-15eg7h, .replyBar-1oi75v, .scroller-18M1mG {
     background-color: #383838;
 }
