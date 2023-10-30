@@ -1,3 +1,56 @@
 .chatContent__5dca8 {
-background: #1F1F1F;
+background: #1D1D1D;
+}
+.theme-dark .themed_b152d4 {
+  background: #1D1D1D;
+}
+.theme-dark .form__13a2c:before {
+  display: none;
+}
+.scroller_f0f183 {
+  background: #1F1F1F;
+  border-left: 1px solid #71198a;
+}
+.theme-dark .container_ca50b9 {
+    background: #1F1F1F;
+    border: 1px solid #71198A;
+}
+.selected__0b1ad .header__104ca, .clickable__2d589 .header__104ca:hover {
+    background-color: var(--background-modifier-hover);
+}
+.clickable__2d589 {
+    background: #1f1f1f;
+}
+.scroller__3d071 {
+    background: #1d1d1d;
+}
+.childWrapper__01b9c {
+  background-color: #71198A;
+}
+.theme-dark {
+    --scrollbar-auto-thumb: #71198a;
+    --scrollbar-auto-track: #1a1a1a;
+}
+.themedBackground__6b1b6 {
+    background: #1a1a1a;
+    outline: none;
+    border: 1px solid #1a1a1a;
+}
+.contentWrapper__321ed {
+  background-color: #1f1f1f;
+}
+.navButtonActive__735cb {
+    background-color: #71198a;
+}
+.sidebarRegionScroller__1fa7e {
+  background: #1f1f1f;
+}
+.contentRegionScroller__86c79 {
+  background-color: #1f1f1f;
+}
+.item_f9d377 {
+  background-color: #71198a;
+}
+.newMessagesBar__8b6d7 {
+  background-color: #71198a;
 }
