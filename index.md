@@ -10,7 +10,7 @@ Couple of my themes:
   Gray and orange theme
  </a>
  ,
-<a href="https://striderg.github.io/bp.theme.css" download rel="noopener noreferrer" target="_blank">
+<a href="https://striderg.github.io/bp3.theme.css" download rel="noopener noreferrer" target="_blank">
   Black and purple theme
  </a>
 ,
