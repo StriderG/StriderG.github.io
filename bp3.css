@@ -63,8 +63,9 @@ background: #1D1D1D;
 .member_b44d5d {
     background: #1f1f1f !important;
 }
-// old font
-
+/**
+old font
+*/
 :root {
   --font-primary: Whitney,gg sans,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
   --font-display: Whitney,gg sans,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
